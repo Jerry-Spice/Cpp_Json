@@ -1,0 +1,26 @@
+{
+    "countries": [
+        {
+            "name": "France",
+            "capital": "Paris",
+            "population": 67364357,
+            "area": 551695,
+            "currency": "Euro",
+            "languages": ["French"],
+            "region": "Europe",
+            "subregion": "Western Europe",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+        },
+        {
+            "name": "United States",
+            "capital": "Washington, D.C.",
+            "population": 623784901,
+            "area": 52323457,
+            "currency": "Dollars",
+            "languages": ["English", "Spanish", "French"],
+            "region": "North America",
+            "subregion": "Central North America",
+            "flag": "null"
+        }
+    ]
+}
